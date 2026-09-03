@@ -8,7 +8,7 @@ To Write a C program that implements a producer-consumer system with two process
 
 ### Step 1:
 
-Navigate to any Linux environment installed on the system or installed inside a virtual environment like virtual box/vmware or online linux JSLinux (https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192) or docker.
+Navigate to any Linux environment installed on the system or installed inside a virtual environment like virtual box/vmware or online linux JSLinux  or docker.
 
 ### Step 2:
 
